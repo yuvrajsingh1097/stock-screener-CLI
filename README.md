@@ -11,3 +11,7 @@ yfinance — live fundamentals and price history
 pandas + numpy — RSI, returns, volatility, Sharpe
 matplotlib — bar chart PNG export
 pytest — unit tests for RSI, filters, market cap tiers
+
+
+
+works finely for various currency pairs
