@@ -15,3 +15,5 @@ pytest — unit tests for RSI, filters, market cap tiers
 
 
 works finely for various currency pairs
+
+TRADE WITH MARKING LONDON HIGHS AND LOWS
